@@ -50,13 +50,15 @@
 
 ---
 
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohtashimkhan22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohtashimkhan22&theme=tokyonight&hide_border=false" width="49%">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohtashimkhan22&layout=compact&theme=tokyonight&hide_border=false" width="60%">
-</p>
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohtashimkhan22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Mohtashim's GitHub Stats" style="width: 48%; max-width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohtashimkhan22&theme=tokyonight&hide_border=false" alt="Mohtashim's GitHub Streak" style="width: 48%; max-width: 100%;" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohtashimkhan22&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" style="width: 60%; max-width: 100%;" />
+</div>
+
 
 ---
 
