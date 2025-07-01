@@ -52,12 +52,12 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohtashimkhan22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Mohtashim's GitHub Stats" style="width: 48%; max-width: 100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohtashimkhan22&theme=tokyonight&hide_border=false" alt="Mohtashim's GitHub Streak" style="width: 48%; max-width: 100%;" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohtashimkhan22&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" style="width: 60%; max-width: 100%;" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Mohtashimkhan22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohtashimkhan22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohtashimkhan22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mohtashimkhan22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ---
